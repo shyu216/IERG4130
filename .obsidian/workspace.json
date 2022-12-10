@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "07f73e6971810720",
+    "type": "split",
+    "children": [
+      {
+        "id": "32ff6bdfe91d2128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6699e92b2fcc6e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Tutorial_10.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8e8bee179fb7987",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a7eaf1844126d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b517133cf7470b1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8f56afcd973a10e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d126e19e2a9fd98",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5af2bee769856f78",
+    "type": "split",
+    "children": [
+      {
+        "id": "8badd8fd41d49b86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9839961ff87d9716",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tutorial_10.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3c47e940f43bef1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tutorial_10.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "132fb913c5ad0a3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88e2e6b9628b0230",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tutorial_10.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad6699e92b2fcc6e",
+  "lastOpenFiles": [
+    "IERG4130 F22 Cryptography Tutorial 2.pdf",
+    "Tutorial_7.pdf",
+    "Tutorial_6.pdf",
+    "Tutorial_4.pdf",
+    "Tutorial_3.pdf",
+    "2022-Fall Assignment and Lab Guidelines.docx.pdf",
+    "asm1/2022_fall_ierg4130_solution_1_reviewed.pdf",
+    "Tutorial_2.pdf"
+  ]
+}
